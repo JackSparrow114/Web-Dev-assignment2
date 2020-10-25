@@ -1,2 +1,3 @@
-# Comp229-Assignment1
-Express Portfolio Site using ExpressJS and implementing the EJS templating engine.
+# Comp229-Assignment2
+Express Portfolio Authentication
+Using Portfolio Web Site, restructured the web site to include a secure section that displays a list of contents
